@@ -265,6 +265,7 @@ body {
 .img-btn {
   max-width: 100%;
 }
+
 @keyframes rotate {
   0% {
     transform: rotate(0);
