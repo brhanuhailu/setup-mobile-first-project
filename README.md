@@ -120,7 +120,7 @@ In order to run this project you need:
 Example command:
 
 ```sh
- gem install rails
+  npm install
 ```
  -->
 
@@ -132,8 +132,8 @@ Clone this repository to your desired folder:
 Example commands:
 
 ```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  cd desired-folder
+  https://github.com/brhanuhailu/portifolio.git
 ```
 --->
 
@@ -250,6 +250,9 @@ I would like to thank Microverse organization
 
 ## 📝 License <a name="license"></a>
 
+It is allowed to use this project for academic purpose. Knowledge sharing is not power loosing stead power gaining.
+Therefore, Permission is hereby granted, free of charge, to any person obtaining a copy
+of this source code and associated documentation files without restriction.
 This project is [MIT](./LICENSE) licensed.
 
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
